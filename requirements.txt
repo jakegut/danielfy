@@ -1,0 +1,7 @@
+scikit-build
+cmake
+dlib >= 19.9.0
+numpy >= 1.13.1
+scipy >= 0.18.0
+opencv-python
+discord.py
