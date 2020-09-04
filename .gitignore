@@ -1,6 +1,8 @@
 # VScode
 .vscode
 
+venv
+
 *.py[cod]
 
 # C extensions
